@@ -1,0 +1,7 @@
+openai-whisper
+ffmpeg
+torch
+librosa
+soundfile
+noisereduce
+googletrans==4.0.0-rc1
